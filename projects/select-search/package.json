@@ -1,0 +1,24 @@
+{
+  "name": "select-search-ss",
+  "version": "0.0.1",
+  "description":"select html con checkbox",
+  "keywords": ["select", "select multi", "select checkbox"],
+  "homepage": "https://github.com/ivanperaltazh/library-test-select-search",
+  "bugs": {
+    "url" : "https://github.com/ivanperaltazh/library-test-select-search/issues",
+    "email" : "ivanp30@hotmail.com"
+  },
+  "license" : "MIT",
+  "peerDependencies": {
+    "@angular/common": "^12.2.0",
+    "@angular/core": "^12.2.0"
+  },
+  "author":{
+    "name" : "Iván Peralta",
+    "email" : "ivanp30@hotmail.com",
+    "url" : "https://github.com/ivanperaltazh"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
